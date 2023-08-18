@@ -48,7 +48,6 @@ Follow these steps to set up and run the App on your local machine.
 
    ```sh
    git clone https://github.com/iamdeveloper-me/accuknox-test-task
-   cd task
 
 2. Create a virtual environment (optional but recommended):
 
